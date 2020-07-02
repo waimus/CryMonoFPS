@@ -1,0 +1,6 @@
+C:\Users\waimu\Documents\CRYENGINE Projects\CryMonoFPS\bin\Game.dll
+C:\Users\waimu\Documents\CRYENGINE Projects\CryMonoFPS\bin\Game.pdb
+C:\Users\waimu\Documents\CRYENGINE Projects\CryMonoFPS\Code\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\waimu\Documents\CRYENGINE Projects\CryMonoFPS\Code\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\waimu\Documents\CRYENGINE Projects\CryMonoFPS\Code\Game\obj\Debug\Game.dll
+C:\Users\waimu\Documents\CRYENGINE Projects\CryMonoFPS\Code\Game\obj\Debug\Game.pdb
