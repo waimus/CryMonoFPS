@@ -1,0 +1,40 @@
+<AssetMetadata version="0" type="Level" guid="9c0fe45e-a2ad-61b9-e4a8-7409372d09f4" source="" timestamp="1593698485">
+ <Files>
+  <File path="example/example.level"/>
+ </Files>
+ <Dependencies>
+  <Path>%editor%/objects/envcube.cgf</Path>
+  <Path>%editor%/objects/envcube.mtl</Path>
+  <Path>%engine%/engineassets/icons/averagememoryusage.dds</Path>
+  <Path>%engine%/engineassets/icons/highmemoryusage.dds</Path>
+  <Path>%engine%/engineassets/icons/livepreview.dds</Path>
+  <Path>%engine%/engineassets/icons/lowmemoryusage.dds</Path>
+  <Path>%engine%/engineassets/materials/fog/fogvolumebox.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/fogvolumeellipsoid.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/oceaninto.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/oceanintolowspec.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/oceanoutof.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/oceanoutoflowspec.mtl</Path>
+  <Path>%engine%/engineassets/materials/material_default.mtl</Path>
+  <Path>%engine%/engineassets/materials/material_terrain_default.mtl</Path>
+  <Path>%engine%/engineassets/materials/water/ocean_default.mtl</Path>
+  <Path>%engine%/engineassets/materials/water/wateroceanbottom.mtl</Path>
+  <Path>%engine%/engineassets/objects/primitive_sphere.cgf</Path>
+  <Path>%engine%/engineassets/texturemsg/defaultnouvs.dds</Path>
+  <Path>%engine%/engineassets/textures/grey.dds</Path>
+  <Path>%engine%/engineassets/textures/skys/night/half_moon.dds</Path>
+  <Path>editor/resourcecache/textures/cubemaps/example/entity-3_cm.dds</Path>
+  <Path>editor/resourcecache/textures/cubemaps/example/entity-3_cm_diff.dds</Path>
+  <Path>engineassets/textures/grey.dds</Path>
+  <Path>gamecode/player/player.cs</Path>
+  <Path>gamecode/player/playerview.cs</Path>
+  <Path>gamecode/utility/viewcamera.cs</Path>
+  <Path>libs/config/defaultprofile.xml</Path>
+  <Path usageCount="1">libs/environmentpresets/example.env</Path>
+  <Path>materials/user_defaultmat.mtl</Path>
+  <Path>objects/default/primitive_box.cgf</Path>
+  <Path>objects/default/primitive_cube.cgf</Path>
+  <Path>textures/cubemaps/example/entity-3_cm.dds</Path>
+  <Path>textures/cubemaps/example/entity-3_cm_diff.dds</Path>
+ </Dependencies>
+</AssetMetadata>
