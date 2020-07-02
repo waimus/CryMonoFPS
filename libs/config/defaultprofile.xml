@@ -1,0 +1,29 @@
+<profile version="0">
+	<platforms>
+		<PC keyboard="1" xboxpad="1" ps4pad="1"/>
+		<XboxOne keyboard="1" xboxpad="1" ps4pad="0"/>
+		<PS4 keyboard="1" xboxpad="0" ps4pad="1"/>
+	</platforms>
+	
+	<!--DO NOT REMOVE DEFAULT ACTIONMAP! NEEDED BY CRYACTION.-->
+	<actionmap name="default" version="1"/>
+	<!---->
+	
+	<actionmap name="player" version="1">
+		<action name="moveleft" onPress="1" onRelease="1" retriggerable="1" keyboard="a"/>
+		<action name="moveright" onPress="1" onRelease="1" retriggerable="1" keyboard="d"/>
+		<action name="moveforward" onPress="1" onRelease="1" retriggerable="1" keyboard="w"/>
+		<action name="moveback" onPress="1" onRelease="1" retriggerable="1" keyboard="s"/>
+		<action name="sprint" onPress="1" onRelease="1" retriggerable="1" keyboard="lshift" xboxpad="xi_thumbl" ps4pad="pad_l3"/>
+		<action name="jump" onPress="1" onRelease="1" retriggerable="1" keyboard="space" xboxpad="xi_a" ps4pad="pad_cross"/>
+		
+		<action name="stickmovex" xboxpad="xi_thumblx" ps4pad="pad_sticklx"/>
+		<action name="stickmovey" xboxpad="xi_thumbly" ps4pad="pad_stickly"/>
+		
+		<action name="mouse_rotateyaw" keyboard="maxis_x" xboxpad="xi_thumbrx" ps4pad="pad_stickrx"/>
+		<action name="mouse_rotatepitch" keyboard="maxis_y" xboxpad="xi_thumbry" ps4pad="pad_stickry"/>
+		
+		<action name="mouse1" onPress="1" onRelease="1" retriggerable="1" keyboard="mouse1" xboxpad="xi_triggerr" ps4pad="pad_r1"/>
+		<action name="mouse2" onPress="1" onRelease="1" retriggerable="1" keyboard="mouse2" xboxpad="xi_triggerl" ps4pad="pad_l1"/>
+	</actionmap>  
+</profile>
