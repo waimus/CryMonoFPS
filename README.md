@@ -13,7 +13,7 @@ A custom FPS control in CryEngine C#. A lot of code are adapted from the C# thir
 
 ### Some Notes:</br>
 - You probably have to load the Game.sln file at the root folder first and compile the solution to get the latest binary working. Some codes were updated without the new compiled binary uploaded here.
-- This project was created on CryEngine 5.6.6
+- This project was created on CryEngine 5.6.6 build 79 and Visual Studio 2017
 - There are two solutions files. The one in the root folder is the game logic project solution, contains any gameplay mechanics implementation. The one located at Code/Game.sln is the program solution. Came with the CryEngine blank template, contains the game structure as a running program. So you may want to use the one at the root folder to modify the game logic.
 - Input mapping uses the /Assets/libs/config/defaultprofile.xml file and then controlled in the Player.cs
 - This is a pretty basic FPS controller but hopefully can help people to get started with C# in CryEngine
