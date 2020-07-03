@@ -135,7 +135,6 @@ namespace CryEngine.Game
 		protected override void OnInitialize()
 		{
 			base.OnInitialize();
-			Log.Always("Player.OnInitialize()");
 
 			PrepareRigidbody();
 		}
@@ -399,6 +398,7 @@ namespace CryEngine.Game
 
 		private void OnMouse2Pressed(string name, InputState state, float value)
 		{
+			//Setting FOV does not work at the moment.
 			if (state == InputState.Pressed)
 			{
 				_playerView.SetFOV(ZoomCameraFOV);
@@ -436,10 +436,10 @@ namespace CryEngine.Game
 		/// </summary>
 		private void SetPlayerModel()
 		{
-			//debug model
+			//test model
 			/*var entity = Entity;
 
-			entity.LoadGeometry(0, Primitives.Plane);
+			entity.LoadGeometry(0, Primitives.Sphere);
 			entity.LoadMaterial("materials/user_defaultmat");*/
 		}
 
